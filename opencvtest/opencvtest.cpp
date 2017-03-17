@@ -2,10 +2,11 @@
 //
 
 #include "stdafx.h"
-#include <opencv2/opencv.hpp>
 
+using namespace std;
 int main()
 {
+    cout << "xxx" << endl;
     return 0;
 }
 

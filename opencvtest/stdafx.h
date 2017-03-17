@@ -7,9 +7,8 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
-#include <tchar.h>
-
+#include <iostream>
+#include <opencv2/opencv.hpp>
 
 
 // TODO:  在此处引用程序需要的其他头文件
